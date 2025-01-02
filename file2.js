@@ -1,0 +1,1 @@
+console.log("Inside file 2");
