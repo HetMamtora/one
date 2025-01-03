@@ -5,3 +5,5 @@ console.log("again fixed");
 console.log("once again");
 
 console.log("fix for green mode");
+
+console.log("this message is for purple mode");
