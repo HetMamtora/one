@@ -3,3 +3,5 @@ console.log("bug detected");
 console.log("bug fixed");
 console.log("again fixed");
 console.log("once again");
+
+console.log("fix for green mode");
